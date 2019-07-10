@@ -4,6 +4,14 @@ This is intended as boilerplate code for developers working on React Application
 
 This page features Sign-in and Sign-up pages, as well as a demo page
 
+### Getting Started
+
+Use the **Available Scripts** info below to see how to run and build the app.
+
+To get up and running, you first need to have a [Firebase](https://firebase.google.com/) account.  Getting set up on Firebase is free and straightforward.  
+
+Edit the `.env` file with your Firebase account information to get started.  
+
 ### Adding Admin
 
 To add an admin, navigate to [Firebase](https://firebase.google.com/).
