@@ -2,6 +2,8 @@
 
 This is intended as boilerplate code for developers working on React Applications that use Firebase as the authentication backend.
 
+[Material-UI](https://material-ui.com/) is used to build and style the components in this application.
+
 This page features Sign-in and Sign-up pages, as well as a demo page
 
 ### Getting Started
